@@ -230,7 +230,24 @@ function create_config( )
     "Auto_Leave",
     "welcome",
     "weather",
-    
+    "time",
+    "plugins",
+    "ress",
+    "Robot",
+    "lock_leave",
+    "lock_join",
+    "map",
+    "lock_english",
+    "lock_link",
+    "invite',
+    "info",
+    "join",
+    "chat",
+    "Boobs",
+    "link pv",
+    "img_google",
+    "google"
+    "botphoto"
     },
     sudo_users = {112392827,147828506,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
