@@ -246,7 +246,7 @@ function create_config( )
     "Boobs",
     "link pv",
     "img_google",
-    "google"
+    "google",
     "botphoto"
     },
     sudo_users = {112392827,147828506,0,tonumber(our_id)},--Sudo users
