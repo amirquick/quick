@@ -218,7 +218,7 @@ function create_config( )
     "google",
     "botphoto"
     "anti_spam",
-     "Robot",
+    "Robot",
     "lock_leave",
     "lock_join",
     "map",
