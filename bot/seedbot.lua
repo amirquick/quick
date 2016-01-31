@@ -214,6 +214,9 @@ function create_config( )
     "inpm",
     "banhammer",
     "stats",
+    "img_google",
+    "google",
+    "botphoto"
     "anti_spam",
     "owners",
     "arabic_lock",
@@ -233,21 +236,18 @@ function create_config( )
     "time",
     "plugins",
     "ress",
+    "invite',
     "Robot",
     "lock_leave",
     "lock_join",
     "map",
     "lock_english",
     "lock_link",
-    "invite',
     "info",
     "join",
     "chat",
     "Boobs",
-    "link pv",
-    "img_google",
-    "google",
-    "botphoto"
+    "link pv"
     },
     sudo_users = {112392827,147828506,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
